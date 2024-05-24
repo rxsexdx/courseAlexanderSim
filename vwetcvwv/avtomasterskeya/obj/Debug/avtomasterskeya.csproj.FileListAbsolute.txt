@@ -1,0 +1,11 @@
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\bin\Debug\avtomasterskeya.exe.config
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\bin\Debug\avtomasterskeya.exe
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\bin\Debug\avtomasterskeya.pdb
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.csproj.AssemblyReference.cache
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.Main.resources
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.List_part.resources
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.Properties.Resources.resources
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.csproj.GenerateResource.cache
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.csproj.CoreCompileInputs.cache
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.exe
+C:\Users\frost\OneDrive\Рабочий стол\learning\avtomasterskeya\avtomasterskeya\obj\Debug\avtomasterskeya.pdb
